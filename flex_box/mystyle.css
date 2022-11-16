@@ -1,0 +1,25 @@
+.flex-container{
+    display: flex;
+    height: 700px;
+    background-color: green;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+#item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcoral;
+    height: 90px;
+    width: 90px;
+
+}
+
+/* .bottom2{
+    display: flex;
+    align-self: flex-end;
+    justify-content: center;
+    flex-flow: row;
+} */
