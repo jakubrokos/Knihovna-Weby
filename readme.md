@@ -34,13 +34,5 @@ git clone https://github.com/jakubrokos/Knihovna-Weby.git
 
 ## Images
 
-<div align="center">
 
-<img src="./images/reprezentativni_obrazek_1.png" width="300" height="300">
-
-</div>
-
-
-
-
-![reprezentativni_obrazek_2](https://i.pinimg.com/originals/d9/56/9b/d9569bbed4393e2ceb1af7ba64fdf86a.jpg)
+![reprezentativni_obrazek_2](./images/reprezentativni_obrazek_1.png)
